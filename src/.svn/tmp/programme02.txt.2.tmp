@@ -1,0 +1,26 @@
+# commentaire
+# commentaire 2
+debut
+<<<<<<< .mine
+i=0;
+j=0;
+	repeter
+		j=j+2;
+		i=i+1;
+	jusqua(i<6)
+	
+	ecrire(i);
+
+=======
+  i = 1;
+  seloncas (i)
+    cas 1 :
+      j = 1;
+    cas 2 :
+      j = 3;
+    defaut :
+      j = 0;
+  finselon
+>>>>>>> .r36
+fin
+

@@ -1,0 +1,25 @@
+# commentaire
+# commentaire 2
+debut
+ 
+ i = 5;
+ j = 2;
+ seloncas (i)
+  cas 1 :
+   j = 5;
+   j = 4;
+   ecrire("test 1");
+  cas 5 :
+	si (j>2)
+		j=10;
+	sinon
+		j = 6;
+	finsi
+   ecrire("test 2");
+  defaut :
+  j = 4;
+   j = 0;
+   ecrire("test 3");
+ finselon
+fin
+

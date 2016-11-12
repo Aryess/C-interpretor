@@ -1,0 +1,11 @@
+# commentaire
+# commentaire 2
+debut
+	
+	si( 3 >= 2)
+		ecrire("ok");
+	sinon
+		ecrire("pas ok");
+	finsi
+fin
+

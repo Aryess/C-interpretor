@@ -1,0 +1,12 @@
+# commentaire
+# commentaire 2
+debut
+<<<<<<< .mine
+i = (1 + 2) * 3;
+=======
+
+	i="hello world";
+	ecrire(i);
+>>>>>>> .r35
+fin
+
